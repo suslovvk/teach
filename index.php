@@ -8,4 +8,10 @@ echo "nice to this";
 
 echo "how are you ?";
 
+for ($i=1 , $i<100, $i++){
+$i++;
+echo $i;
+
+
+}
 ?>
